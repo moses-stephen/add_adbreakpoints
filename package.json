@@ -1,0 +1,22 @@
+{
+  "name": "adbreakpoints",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon sample.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aternus/csv-to-xlsx": "^1.0.19",
+    "express": "^4.17.1",
+    "json-2-csv": "^3.15.0",
+    "json-csv": "^4.0.2",
+    "json2xls": "^0.1.2",
+    "xlsx": "^0.17.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
